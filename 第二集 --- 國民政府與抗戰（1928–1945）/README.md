@@ -8,8 +8,8 @@
 |---|---|---|---|
 | 第1章 | 第二集-第1章 黃金十年.mp4 | 11:17 | ✅ 已上架 |
 | 第2章 | 第二集-第2章 東北淪陷.mp4 | 11:23 | ✅ 已上架 |
-| 第3章 | 西安事變 | — | 製作中 |
-| 第4章 | 七七事變與全面抗戰、南京大屠殺 | — | 待製作 |
+| 第3章 | 第二集-第3章 西安兵諫.mp4 | 11:38 | ✅ 已上架 |
+| 第4章 | 七七事變與全面抗戰、南京大屠殺 | — | 製作中 |
 | 第5章 | 開羅會議與國際地位、日本投降與受降 | — | 待製作 |
 
 ## 第1章 黃金十年 時間軸
@@ -38,6 +38,21 @@
 7:42 2-6 日內瓦的審判
 9:06 2-7 長城線上
 11:08 下一章預告
+```
+
+## 第3章 西安兵諫 時間軸
+
+```
+0:00 開場
+0:30 3-1 華北告急
+1:20 3-2 打不下去的內戰
+2:39 3-3 從苦諫到兵諫
+4:56 3-4 南京的抉擇
+6:33 3-5 保安與莫斯科
+7:26 3-6 聖誕節的飛機
+8:33 3-7 兵諫的代價
+10:11 3-8 功臣還是罪人？
+11:25 下一章預告
 ```
 
 ## 使用規範
@@ -84,3 +99,15 @@
 
 - manchukuo_map_zh.png｜CC BY-SA 3.0｜Boracasli｜https://commons.wikimedia.org/wiki/File:China-Manchukuo-map_zh.svg
 - 原音：1931 年柏林出版唱片《東方音樂》中的京劇西皮唱段（公有領域），僅作時代氛圍，非事件當晚錄音。
+
+## 素材來源與授權（第3章）
+
+除下列 CC BY-SA 素材外，第3章圖片皆為 Wikimedia Commons 公有領域素材；本章未使用歷史原音。
+
+- 五間廳匾額｜CC BY-SA 3.0｜风之清扬｜https://commons.wikimedia.org/wiki/File:%E4%BA%94%E9%97%B4%E5%8E%85.JPG
+- 華清池五間廳窗上彈孔｜CC BY-SA 3.0｜CEphoto, Uwe Aranas｜https://commons.wikimedia.org/wiki/File:Lintong_Xian_China_Huaqing-Pool-10.jpg
+- 華清池五間廳外觀｜CC BY-SA 3.0｜CEphoto, Uwe Aranas｜https://commons.wikimedia.org/wiki/File:Lintong_Xian_China_Huaqing-Pool-06.jpg
+- 事變前夕地圖｜CC BY-SA 4.0｜SilverStar54｜https://commons.wikimedia.org/wiki/File:China_before_the_Xi%27an_Incident.svg
+- 高桂滋公館｜CC BY-SA 4.0｜Kcx36｜https://commons.wikimedia.org/wiki/File:%E8%A5%BF%E5%AE%89%E4%BA%8B%E5%8F%98%E6%97%A7%E5%9D%80-%E9%AB%98%E6%A1%82%E6%BB%8B%E5%85%AC%E9%A6%86.jpg
+- 新竹五峰張學良故居｜CC BY-SA 3.0｜Peellden｜https://commons.wikimedia.org/wiki/File:Zhang_Xueliang%27s_former_residence,Wufeng,_Hsinchu,_Taiwan.jpg
+- 楊虎城止園別墅｜CC BY-SA 4.0｜K.Y.K.Z.K.｜https://commons.wikimedia.org/wiki/File:Yang_Hucheng%27s_residence.jpg
