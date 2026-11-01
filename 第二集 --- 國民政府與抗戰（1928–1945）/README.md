@@ -2,7 +2,7 @@
 
 **南京國民政府、九一八、西安事變、全面抗戰到日本投降｜歷史館 第二集**
 
-1080p／25fps，中英雙語字幕。依章節分檔，**製作中，逐章上架**：
+1080p／25fps，中英雙語字幕。依章節分檔，**五章已全部上架**：
 
 | 章 | 檔案 | 長度 | 狀態 |
 |---|---|---|---|
@@ -10,7 +10,7 @@
 | 第2章 | 第二集-第2章 東北淪陷.mp4 | 11:23 | ✅ 已上架 |
 | 第3章 | 第二集-第3章 西安兵諫.mp4 | 11:38 | ✅ 已上架 |
 | 第4章 | 第二集-第4章 盧溝橋到南京.mp4 | 11:47 | ✅ 已上架 |
-| 第5章 | 開羅會議與國際地位、日本投降與受降 | — | 製作中 |
+| 第5章 | 第二集-第5章 從開羅到受降.mp4 | 11:48 | ✅ 已上架 |
 
 ## 第1章 黃金十年 時間軸
 
@@ -69,6 +69,21 @@
 9:20 4-8 大後方
 10:23 4-9 分裂與徵召
 11:34 下一章預告
+```
+
+## 第5章 從開羅到受降 時間軸
+
+```
+0:00 開場
+0:31 5-1 終於有了盟友
+1:29 5-2 生命線
+2:52 5-3 開羅的四強
+4:11 5-4 最後的苦戰
+5:31 5-5 八月十五日
+7:27 5-6 受降
+8:36 5-7 臺北公會堂
+9:53 5-8 勝利的代價
+11:15 下一集預告
 ```
 
 ## 使用規範
@@ -138,3 +153,12 @@
 - 1940 年日本佔領區地圖｜CC BY-SA 3.0｜Odie5533｜https://commons.wikimedia.org/wiki/File:Japanese_Occupation_of_China_1940_(Chongqing).png
 - 原音：國民政府主席林森 1939 年元旦廣播（節錄 14 秒，公有領域）｜https://commons.wikimedia.org/wiki/File:%E6%B0%91%E5%9C%8B%E4%BA%8C%E5%8D%81%E5%85%AB%E5%B9%B4%E5%85%83%E6%97%A6%E8%87%B4%E8%BE%AD%EF%BC%9A%E4%B8%80%E5%B9%B4%E4%BE%86%E4%B9%8B%E5%9B%9E%E9%A1%A7%E5%8F%8A%E4%BB%8A%E5%BE%8C%E4%B9%8B%E9%A1%98%E6%9C%9B.oga
 - 原音：汪精衛 1940 年〈國民政府還都對日廣播詞〉（節錄 12 秒，公有領域）｜https://commons.wikimedia.org/wiki/File:%E5%9C%8B%E6%B0%91%E6%94%BF%E5%BA%9C%E9%82%84%E9%83%BD%E5%B0%8D%E6%97%A5%E5%BB%A3%E6%92%AD%E8%A9%9E_%E6%B1%AA%E7%B2%BE%E8%A1%9E.mp3
+
+## 素材來源與授權（第5章）
+
+除下列 CC BY-SA 素材外，第5章圖片與原音皆為 Wikimedia Commons 公有領域素材：
+
+- 駝峰航線與滇緬公路地圖｜CC BY-SA 4.0｜SY｜https://commons.wikimedia.org/wiki/File:The_Hump_and_Burma_Road.png
+- 臺北市中山堂正面｜CC BY-SA 4.0｜Yu tptw｜https://commons.wikimedia.org/wiki/File:Taipei_Taiwan_Zhongshan_Hall_20230712.jpg
+- 原音：昭和天皇〈終戰詔書〉廣播（玉音放送，1945，節錄約 13 秒，公有領域）｜https://commons.wikimedia.org/wiki/File:Imperial_Rescript_on_the_Termination_of_the_War.ogg
+- 原音：蔣中正 1945 年談抗戰結束的講話（節錄約 14 秒，公有領域）｜https://commons.wikimedia.org/wiki/File:Chiang_Kai-shek_on_the_end_of_World_War_II_(1945).ogg
