@@ -9,8 +9,8 @@
 | 第1章 | 第二集-第1章 黃金十年.mp4 | 11:17 | ✅ 已上架 |
 | 第2章 | 第二集-第2章 東北淪陷.mp4 | 11:23 | ✅ 已上架 |
 | 第3章 | 第二集-第3章 西安兵諫.mp4 | 11:38 | ✅ 已上架 |
-| 第4章 | 七七事變與全面抗戰、南京大屠殺 | — | 製作中 |
-| 第5章 | 開羅會議與國際地位、日本投降與受降 | — | 待製作 |
+| 第4章 | 第二集-第4章 盧溝橋到南京.mp4 | 11:47 | ✅ 已上架 |
+| 第5章 | 開羅會議與國際地位、日本投降與受降 | — | 製作中 |
 
 ## 第1章 黃金十年 時間軸
 
@@ -53,6 +53,22 @@
 8:33 3-7 兵諫的代價
 10:11 3-8 功臣還是罪人？
 11:25 下一章預告
+```
+
+## 第4章 盧溝橋到南京 時間軸
+
+```
+0:00 開場
+0:32 4-1 盧溝橋的槍聲
+1:39 4-2 最後關頭
+2:40 4-3 血戰淞滬
+3:51 4-4 首都淪陷
+5:22 4-5 安全區裡的人
+6:24 4-6 審判與數字
+7:44 4-7 以空間換取時間
+9:20 4-8 大後方
+10:23 4-9 分裂與徵召
+11:34 下一章預告
 ```
 
 ## 使用規範
@@ -111,3 +127,14 @@
 - 高桂滋公館｜CC BY-SA 4.0｜Kcx36｜https://commons.wikimedia.org/wiki/File:%E8%A5%BF%E5%AE%89%E4%BA%8B%E5%8F%98%E6%97%A7%E5%9D%80-%E9%AB%98%E6%A1%82%E6%BB%8B%E5%85%AC%E9%A6%86.jpg
 - 新竹五峰張學良故居｜CC BY-SA 3.0｜Peellden｜https://commons.wikimedia.org/wiki/File:Zhang_Xueliang%27s_former_residence,Wufeng,_Hsinchu,_Taiwan.jpg
 - 楊虎城止園別墅｜CC BY-SA 4.0｜K.Y.K.Z.K.｜https://commons.wikimedia.org/wiki/File:Yang_Hucheng%27s_residence.jpg
+
+## 素材來源與授權（第4章）
+
+除下列 CC BY-SA 素材外，第4章圖片與原音皆為 Wikimedia Commons 公有領域素材：
+
+- 宛平城南牆砲擊痕跡｜CC BY-SA 3.0｜User:Vmenkov｜https://commons.wikimedia.org/wiki/File:Wanping-Castle-south-wall-3514.jpg
+- 七七事變彈坑遺址｜CC BY-SA 4.0｜三猎｜https://commons.wikimedia.org/wiki/File:%E4%B8%83%E4%B8%83%E4%BA%8B%E5%8F%98%E5%BC%B9%E5%9D%91%E9%81%97%E5%9D%80.JPG
+- 拉貝肖像｜CC BY-SA 3.0｜DrSivle｜https://commons.wikimedia.org/wiki/File:John_Rabe.jpeg
+- 1940 年日本佔領區地圖｜CC BY-SA 3.0｜Odie5533｜https://commons.wikimedia.org/wiki/File:Japanese_Occupation_of_China_1940_(Chongqing).png
+- 原音：國民政府主席林森 1939 年元旦廣播（節錄 14 秒，公有領域）｜https://commons.wikimedia.org/wiki/File:%E6%B0%91%E5%9C%8B%E4%BA%8C%E5%8D%81%E5%85%AB%E5%B9%B4%E5%85%83%E6%97%A6%E8%87%B4%E8%BE%AD%EF%BC%9A%E4%B8%80%E5%B9%B4%E4%BE%86%E4%B9%8B%E5%9B%9E%E9%A1%A7%E5%8F%8A%E4%BB%8A%E5%BE%8C%E4%B9%8B%E9%A1%98%E6%9C%9B.oga
+- 原音：汪精衛 1940 年〈國民政府還都對日廣播詞〉（節錄 12 秒，公有領域）｜https://commons.wikimedia.org/wiki/File:%E5%9C%8B%E6%B0%91%E6%94%BF%E5%BA%9C%E9%82%84%E9%83%BD%E5%B0%8D%E6%97%A5%E5%BB%A3%E6%92%AD%E8%A9%9E_%E6%B1%AA%E7%B2%BE%E8%A1%9E.mp3
