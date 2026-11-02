@@ -6,14 +6,14 @@
 > 📜 **中華民國歷史館**：[twinfo.huhm.cc/republicofchina/history](https://twinfo.huhm.cc/republicofchina/history)｜🕰️ **時間軸**：[twinfo.huhm.cc/republicofchina/history/timeline](https://twinfo.huhm.cc/republicofchina/history/timeline)  
 > 🌐 **官網**：[twinfo.huhm.cc](https://twinfo.huhm.cc)
 
-1080p／25fps，中英雙語字幕。依章節分檔，**目前已上架 2/5 章**：
+1080p／25fps，中英雙語字幕。依章節分檔，**目前已上架 3/5 章**：
 
 | 章 | 檔案 | 長度 | 狀態 |
 |---|---|---|---|
 | 第1章 | 第三集-第1章 臺北公會堂受降.mp4 | 11:14 | ✅ 已上架 |
 | 第2章 | 第三集-第2章 陳儀與長官公署.mp4 | 11:14 | ✅ 已上架 |
-| 第3章 | （製作中）戰後經濟困境與惡性通膨 | — | 🛠️ 製作中 |
-| 第4章 | （待製作）二二八事件 | — | ⏳ 待製作 |
+| 第3章 | 第三集-第3章 戰後經濟困境與惡性通膨.mp4 | 11:07 | ✅ 已上架 |
+| 第4章 | （製作中）二二八事件 | — | 🛠️ 製作中 |
 | 第5章 | （待製作）國共內戰與政府遷臺 | — | ⏳ 待製作 |
 
 ## 第1章 臺北公會堂受降 時間軸
@@ -42,6 +42,18 @@
 11:01 下一章預告
 ```
 
+## 第3章 戰後經濟困境與惡性通膨 時間軸
+
+```
+0:00 開場
+0:31 3-1 戰爭留下的帳單
+2:06 3-2 印鈔機與統制
+4:02 3-3 米缸見底
+5:51 3-4 金圓券的漩渦
+8:10 3-5 誰點燃了通膨
+10:50 下一章預告
+```
+
 ## 使用規範
 
 不可商用；可嵌入、下載、剪輯引用，須標注原作者「Taiwan INFO 台灣資訊」與出處。詳見根目錄 [what.md](../what.md)。
@@ -67,6 +79,18 @@
 - 原臺灣省行政長官公署暨廣場（今行政院）｜CC BY 3.0｜National Human Rights Museum（國家人權博物館）｜https://commons.wikimedia.org/wiki/File:原臺灣省行政長官公署暨廣場.jpg
 - 中國東部地形底圖（路線與地名為本片加繪）｜CC BY-SA 4.0｜Kanguole｜https://commons.wikimedia.org/wiki/File:Eastern_China_blank_relief_map.svg
 - 文字引用：行政院《「二二八事件」研究報告》（1992）摘要，二二八事件紀念基金會｜https://www.228.org.tw/incident-research1
+
+## 素材來源與授權（第3章）
+
+影片中的歷史圖片與原音皆來自 Wikimedia Commons。標示 CC BY／CC BY-SA 的素材，轉用時請一併標示原作者與授權。旁白、配樂、音效、動畫為 Taiwan INFO 原創。
+
+除下列 CC BY-SA 素材外，第3章圖片皆為 Wikimedia Commons 公有領域素材（含《匹茲堡新聞》1946-04-15／04-18〈The Tragedy of Taiwan〉與 1948-11〈臺煤增運上海〉原報影像，以及舊臺幣、定額本票、法幣、金圓券、新臺幣券面）；本章未使用歷史原音（Commons 查無 1945–1949 年臺灣經濟或幣制改革相關的公有領域錄音）。
+
+- 中國東部地形底圖（路線與地名為本片加繪）｜CC BY-SA 4.0｜Kanguole｜https://commons.wikimedia.org/wiki/File:Eastern_China_blank_relief_map.svg
+- 片中 1949-06-15「新臺幣今日發行」報紙畫面為示意版面，非原報影像。
+- 數據與引文：行政院《「二二八事件」研究報告》（1992）摘要，二二八事件紀念基金會｜https://www.228.org.tw/incident-research1
+- 數據與引文：吳聰敏〈臺灣戰後的惡性物價膨脹（1945–1950）〉，《國史館學術集刊》第10期｜https://homepage.ntu.edu.tw/~ntut019/ltes/BigInflation-Historica.pdf
+- 發行額、面額與匯率：維基百科〈舊臺幣〉｜https://zh.wikipedia.org/zh-tw/舊臺幣
 
 ## 相關連結
 
