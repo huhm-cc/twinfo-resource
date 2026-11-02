@@ -1,0 +1,53 @@
+# 第三集 --- 戰後接收與政府遷台（1945–1949）
+
+**臺北公會堂受降、陳儀長官公署、戰後通膨、二二八事件、國共內戰到政府遷臺｜歷史館 第三集**
+
+> 🏛️ **線上展廳**：[第三展廳｜戰後接收與政府遷台](https://twinfo.huhm.cc/republicofchina/history/exhibitionhall/third)（事件介紹、年表、留言）  
+> 📜 **中華民國歷史館**：[twinfo.huhm.cc/republicofchina/history](https://twinfo.huhm.cc/republicofchina/history)｜🕰️ **時間軸**：[twinfo.huhm.cc/republicofchina/history/timeline](https://twinfo.huhm.cc/republicofchina/history/timeline)  
+> 🌐 **官網**：[twinfo.huhm.cc](https://twinfo.huhm.cc)
+
+1080p／25fps，中英雙語字幕。依章節分檔，**目前已上架 1/5 章**：
+
+| 章 | 檔案 | 長度 | 狀態 |
+|---|---|---|---|
+| 第1章 | 第三集-第1章 臺北公會堂受降.mp4 | 11:14 | ✅ 已上架 |
+| 第2章 | （製作中）陳儀與長官公署 | — | 🛠️ 製作中 |
+| 第3章 | （待製作）戰後經濟困境與惡性通膨 | — | ⏳ 待製作 |
+| 第4章 | （待製作）二二八事件 | — | ⏳ 待製作 |
+| 第5章 | （待製作）國共內戰與政府遷臺 | — | ⏳ 待製作 |
+
+## 第1章 臺北公會堂受降 時間軸
+
+```
+0:00 開場
+0:55 1-1 紙上的臺灣
+2:31 1-2 從東京灣到臺北
+4:06 1-3 基隆港的歡迎
+5:22 1-4 上午十點
+6:52 1-5 接收
+9:22 1-6 光復與接收
+10:59 下一章預告
+```
+
+## 使用規範
+
+不可商用；可嵌入、下載、剪輯引用，須標注原作者「Taiwan INFO 台灣資訊」與出處。詳見根目錄 [what.md](../what.md)。
+
+## 素材來源與授權（第1章）
+
+影片中的歷史圖片與原音皆來自 Wikimedia Commons。標示 CC BY／CC BY-SA 的素材，轉用時請一併標示原作者與授權。旁白、配樂、音效、動畫為 Taiwan INFO 原創。
+
+除下列 CC BY-SA 素材外，第1章圖片皆為 Wikimedia Commons 公有領域素材；本章未使用歷史原音（Commons 查無陳儀受降廣播或 1945 年臺灣接收的公有領域錄音）。
+
+- 《一般命令第一號》原件照片｜CC BY-SA 4.0｜Hachikuma｜https://commons.wikimedia.org/wiki/File:GENERAL_ORDER_no1.jpg
+- 中國東部地形底圖（路線與地名為本片加繪）｜CC BY-SA 4.0｜Kanguole｜https://commons.wikimedia.org/wiki/File:Eastern_China_blank_relief_map.svg
+- 臺北市中山堂正面｜CC BY-SA 4.0｜Yu tptw｜https://commons.wikimedia.org/wiki/File:Taipei_Taiwan_Zhongshan_Hall_20230712.jpg
+- 文字引用：陳儀〈中國戰區臺灣省受降典禮廣播詞〉（1945-10-25，公文，公有領域）｜https://zh.wikisource.org/zh-hant/中國戰區臺灣省受降典禮廣播詞
+- 片中《臺灣新生報》創刊號畫面為示意版面，非原報影像。
+
+## 相關連結
+
+- 第三展廳｜戰後接收與政府遷台：https://twinfo.huhm.cc/republicofchina/history/exhibitionhall/third
+- 中華民國歷史館：https://twinfo.huhm.cc/republicofchina/history
+- 歷史時間軸：https://twinfo.huhm.cc/republicofchina/history/timeline
+- Taiwan INFO 官網：https://twinfo.huhm.cc
