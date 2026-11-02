@@ -2,6 +2,10 @@
 
 **中華民國的頭十七年：從武昌起義到東北易幟｜歷史館 第一集**
 
+> 🏛️ **線上展廳**：[第一展廳｜建國與北京政府](https://twinfo.huhm.cc/republicofchina/history/exhibitionhall/first)（事件介紹、年表、留言）  
+> 📜 **中華民國歷史館**：[twinfo.huhm.cc/republicofchina/history](https://twinfo.huhm.cc/republicofchina/history)｜🕰️ **時間軸**：[twinfo.huhm.cc/republicofchina/history/timeline](https://twinfo.huhm.cc/republicofchina/history/timeline)  
+> 🌐 **官網**：[twinfo.huhm.cc](https://twinfo.huhm.cc)
+
 合計長度 58:49，1080p／25fps，中英雙語字幕。依章節分為 5 個檔案，依序觀看即為完整版：
 
 | 章 | 檔案 | 長度 |
@@ -78,3 +82,10 @@ CC 授權圖片（依授權條款標示，部分經裁切、調色、加入動�
 - Goran tek-en, following request by RGloucester｜CC BY-SA 4.0｜https://commons.wikimedia.org/wiki/File:Northern_Expedition_1926%E2%80%9328.svg
 
 使用規範請見 [what.md](../what.md)：不可商用；可嵌入、下載使用，須標注原作者「Taiwan INFO 台灣資訊」與出處。
+
+## 相關連結
+
+- 第一展廳｜建國與北京政府：https://twinfo.huhm.cc/republicofchina/history/exhibitionhall/first
+- 中華民國歷史館：https://twinfo.huhm.cc/republicofchina/history
+- 歷史時間軸：https://twinfo.huhm.cc/republicofchina/history/timeline
+- Taiwan INFO 官網：https://twinfo.huhm.cc

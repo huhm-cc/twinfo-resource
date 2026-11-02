@@ -2,6 +2,10 @@
 
 **南京國民政府、九一八、西安事變、全面抗戰到日本投降｜歷史館 第二集**
 
+> 🏛️ **線上展廳**：[第二展廳｜國民政府與抗戰](https://twinfo.huhm.cc/republicofchina/history/exhibitionhall/second)（事件介紹、年表、留言）  
+> 📜 **中華民國歷史館**：[twinfo.huhm.cc/republicofchina/history](https://twinfo.huhm.cc/republicofchina/history)｜🕰️ **時間軸**：[twinfo.huhm.cc/republicofchina/history/timeline](https://twinfo.huhm.cc/republicofchina/history/timeline)  
+> 🌐 **官網**：[twinfo.huhm.cc](https://twinfo.huhm.cc)
+
 1080p／25fps，中英雙語字幕。依章節分檔，**五章已全部上架**：
 
 | 章 | 檔案 | 長度 | 狀態 |
@@ -162,3 +166,10 @@
 - 臺北市中山堂正面｜CC BY-SA 4.0｜Yu tptw｜https://commons.wikimedia.org/wiki/File:Taipei_Taiwan_Zhongshan_Hall_20230712.jpg
 - 原音：昭和天皇〈終戰詔書〉廣播（玉音放送，1945，節錄約 13 秒，公有領域）｜https://commons.wikimedia.org/wiki/File:Imperial_Rescript_on_the_Termination_of_the_War.ogg
 - 原音：蔣中正 1945 年談抗戰結束的講話（節錄約 14 秒，公有領域）｜https://commons.wikimedia.org/wiki/File:Chiang_Kai-shek_on_the_end_of_World_War_II_(1945).ogg
+
+## 相關連結
+
+- 第二展廳｜國民政府與抗戰：https://twinfo.huhm.cc/republicofchina/history/exhibitionhall/second
+- 中華民國歷史館：https://twinfo.huhm.cc/republicofchina/history
+- 歷史時間軸：https://twinfo.huhm.cc/republicofchina/history/timeline
+- Taiwan INFO 官網：https://twinfo.huhm.cc
