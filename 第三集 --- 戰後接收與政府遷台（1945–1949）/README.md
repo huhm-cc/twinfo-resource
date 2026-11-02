@@ -6,7 +6,7 @@
 > 📜 **中華民國歷史館**：[twinfo.huhm.cc/republicofchina/history](https://twinfo.huhm.cc/republicofchina/history)｜🕰️ **時間軸**：[twinfo.huhm.cc/republicofchina/history/timeline](https://twinfo.huhm.cc/republicofchina/history/timeline)  
 > 🌐 **官網**：[twinfo.huhm.cc](https://twinfo.huhm.cc)
 
-1080p／25fps，中英雙語字幕。依章節分檔，**目前已上架 4/5 章**：
+1080p／25fps，中英雙語字幕。依章節分檔，**五章已全部上架**：
 
 | 章 | 檔案 | 長度 | 狀態 |
 |---|---|---|---|
@@ -14,7 +14,7 @@
 | 第2章 | 第三集-第2章 陳儀與長官公署.mp4 | 11:14 | ✅ 已上架 |
 | 第3章 | 第三集-第3章 戰後經濟困境與惡性通膨.mp4 | 11:07 | ✅ 已上架 |
 | 第4章 | 第三集-第4章 二二八事件.mp4 | 11:36 | ✅ 已上架 |
-| 第5章 | （製作中）國共內戰與政府遷臺 | — | 🛠️ 製作中 |
+| 第5章 | 第三集-第5章 國共內戰與政府遷臺.mp4 | 11:05 | ✅ 已上架 |
 
 ## 第1章 臺北公會堂受降 時間軸
 
@@ -65,6 +65,19 @@
 7:49 4-5 數字與責任
 9:38 4-6 走出禁忌
 11:20 下一章預告
+```
+
+## 第5章 國共內戰與政府遷臺 時間軸
+
+```
+0:00 開場
+0:52 5-1 從重慶會談到全面內戰
+2:22 5-2 三大戰役
+3:58 5-3 渡過長江
+5:25 5-4 退路臺灣
+7:12 5-5 四萬換一元
+8:50 5-6 遷設臺北
+10:39 下一集預告
 ```
 
 ## 使用規範
@@ -124,6 +137,22 @@
 - 史實與數據：行政院《「二二八事件」研究報告》（1992）摘要，二二八事件紀念基金會｜https://www.228.org.tw/incident-research1
 - 死亡人數各方估計：楊亮功、何漢文調查（1947）、陳寬政人口推估（1992）、李喬推估、《二二八事件真相與轉型正義研究報告》（2021）、基金會賠償案件統計（2023）、國立臺灣歷史博物館說明｜https://www.228.org.tw/incident-research3
 - 責任歸屬：《二二八事件責任歸屬研究報告》（2006）與不同解讀並列｜https://zh.wikipedia.org/zh-tw/二二八事件
+
+## 素材來源與授權（第5章）
+
+影片中的歷史圖片與原音皆來自 Wikimedia Commons。標示 CC BY／CC BY-SA 的素材，轉用時請一併標示原作者與授權。旁白、配樂、音效、動畫為 Taiwan INFO 原創。
+
+除下列 CC 素材外，第5章圖片皆為 Wikimedia Commons 公有領域素材（含 1945 年重慶蔣毛舉杯、1946 年軍事三人小組、《雙十協定》影本、美國陸軍 1948 年戰史地圖、徐蚌（淮海）會戰國軍照片、1949 年解放軍進入北平與南京、國軍登船撤臺、金門戰役前國軍部署圖、1949 年《臺灣省戒嚴令》佈告、舊臺幣壹萬圓與 1949 年版新臺幣拾圓券面、美國之音拍攝的總統府）。
+
+- 金門古寧頭戰役紀念牌樓｜CC BY-SA 3.0｜Rolfmueller｜https://commons.wikimedia.org/wiki/File:Kinmen_Guningtou_Arch.jpg
+- 國立故宮博物院（臺北）｜CC0｜Gary Lee Todd, Ph.D.｜https://commons.wikimedia.org/wiki/File:National_Palace_Museum,_Taipei_01.jpg
+- 中國東部地形底圖（路線與地名為本片加繪）｜CC BY-SA 4.0｜Kanguole｜https://commons.wikimedia.org/wiki/File:Eastern_China_blank_relief_map.svg
+- 歷史原音：蔣中正 1945 年談抗戰結束的講話錄音（節錄，與第二集第5章不同段落）｜Public domain｜https://commons.wikimedia.org/wiki/File:Chiang_Kai-shek_on_the_end_of_World_War_II_(1945).ogg （Commons 查無 1949 年政府遷臺或幣制改革的公有領域原音）
+- 片中 1949-06-15 幣制改革報紙畫面為示意版面，非原報影像。
+- 史實與數據：維基百科〈中華民國政府播遷臺灣〉（黃金數量、移入人數、文物箱數、1949-12-07 總統令）｜https://zh.wikipedia.org/zh-tw/中華民國政府遷臺
+- 發行額與幣制改革要點：維基百科〈舊臺幣〉｜https://zh.wikipedia.org/zh-tw/舊臺幣
+- 古寧頭戰役雙方數字：維基百科〈古寧頭戰役〉｜https://zh.wikipedia.org/zh-tw/古寧頭戰役
+- 三大戰役日期與淮海戰役兵力（中國大陸方面統計）：維基百科〈三大戰役〉｜https://zh.wikipedia.org/zh-tw/三大戰役
 
 ## 相關連結
 
