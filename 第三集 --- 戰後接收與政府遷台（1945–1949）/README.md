@@ -6,13 +6,13 @@
 > 📜 **中華民國歷史館**：[twinfo.huhm.cc/republicofchina/history](https://twinfo.huhm.cc/republicofchina/history)｜🕰️ **時間軸**：[twinfo.huhm.cc/republicofchina/history/timeline](https://twinfo.huhm.cc/republicofchina/history/timeline)  
 > 🌐 **官網**：[twinfo.huhm.cc](https://twinfo.huhm.cc)
 
-1080p／25fps，中英雙語字幕。依章節分檔，**目前已上架 1/5 章**：
+1080p／25fps，中英雙語字幕。依章節分檔，**目前已上架 2/5 章**：
 
 | 章 | 檔案 | 長度 | 狀態 |
 |---|---|---|---|
 | 第1章 | 第三集-第1章 臺北公會堂受降.mp4 | 11:14 | ✅ 已上架 |
-| 第2章 | （製作中）陳儀與長官公署 | — | 🛠️ 製作中 |
-| 第3章 | （待製作）戰後經濟困境與惡性通膨 | — | ⏳ 待製作 |
+| 第2章 | 第三集-第2章 陳儀與長官公署.mp4 | 11:14 | ✅ 已上架 |
+| 第3章 | （製作中）戰後經濟困境與惡性通膨 | — | 🛠️ 製作中 |
 | 第4章 | （待製作）二二八事件 | — | ⏳ 待製作 |
 | 第5章 | （待製作）國共內戰與政府遷臺 | — | ⏳ 待製作 |
 
@@ -27,6 +27,19 @@
 6:52 1-5 接收
 9:22 1-6 光復與接收
 10:59 下一章預告
+```
+
+## 第2章 陳儀與長官公署 時間軸
+
+```
+0:00 開場
+0:34 2-1 兩種藍圖
+2:07 2-2 一個人的權力
+3:28 2-3 做事的人
+5:21 2-4 自成一格的經濟
+7:10 2-5 自家人還是殖民地
+9:00 2-6 公署的終點
+11:01 下一章預告
 ```
 
 ## 使用規範
@@ -44,6 +57,16 @@
 - 臺北市中山堂正面｜CC BY-SA 4.0｜Yu tptw｜https://commons.wikimedia.org/wiki/File:Taipei_Taiwan_Zhongshan_Hall_20230712.jpg
 - 文字引用：陳儀〈中國戰區臺灣省受降典禮廣播詞〉（1945-10-25，公文，公有領域）｜https://zh.wikisource.org/zh-hant/中國戰區臺灣省受降典禮廣播詞
 - 片中《臺灣新生報》創刊號畫面為示意版面，非原報影像。
+
+## 素材來源與授權（第2章）
+
+影片中的歷史圖片與原音皆來自 Wikimedia Commons。標示 CC BY／CC BY-SA 的素材，轉用時請一併標示原作者與授權。旁白、配樂、音效、動畫為 Taiwan INFO 原創。
+
+除下列 CC BY／CC BY-SA 素材外，第2章圖片皆為 Wikimedia Commons 公有領域素材（含《民報》1946-05-06、《臺灣日日新報》1935-11-20、《臺灣新生報》1947-03-08 原報影像）；本章未使用歷史原音（Commons 查無陳儀或長官公署時期的公有領域錄音）。
+
+- 原臺灣省行政長官公署暨廣場（今行政院）｜CC BY 3.0｜National Human Rights Museum（國家人權博物館）｜https://commons.wikimedia.org/wiki/File:原臺灣省行政長官公署暨廣場.jpg
+- 中國東部地形底圖（路線與地名為本片加繪）｜CC BY-SA 4.0｜Kanguole｜https://commons.wikimedia.org/wiki/File:Eastern_China_blank_relief_map.svg
+- 文字引用：行政院《「二二八事件」研究報告》（1992）摘要，二二八事件紀念基金會｜https://www.228.org.tw/incident-research1
 
 ## 相關連結
 
