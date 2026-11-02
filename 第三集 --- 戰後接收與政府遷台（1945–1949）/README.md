@@ -6,15 +6,15 @@
 > 📜 **中華民國歷史館**：[twinfo.huhm.cc/republicofchina/history](https://twinfo.huhm.cc/republicofchina/history)｜🕰️ **時間軸**：[twinfo.huhm.cc/republicofchina/history/timeline](https://twinfo.huhm.cc/republicofchina/history/timeline)  
 > 🌐 **官網**：[twinfo.huhm.cc](https://twinfo.huhm.cc)
 
-1080p／25fps，中英雙語字幕。依章節分檔，**目前已上架 3/5 章**：
+1080p／25fps，中英雙語字幕。依章節分檔，**目前已上架 4/5 章**：
 
 | 章 | 檔案 | 長度 | 狀態 |
 |---|---|---|---|
 | 第1章 | 第三集-第1章 臺北公會堂受降.mp4 | 11:14 | ✅ 已上架 |
 | 第2章 | 第三集-第2章 陳儀與長官公署.mp4 | 11:14 | ✅ 已上架 |
 | 第3章 | 第三集-第3章 戰後經濟困境與惡性通膨.mp4 | 11:07 | ✅ 已上架 |
-| 第4章 | （製作中）二二八事件 | — | 🛠️ 製作中 |
-| 第5章 | （待製作）國共內戰與政府遷臺 | — | ⏳ 待製作 |
+| 第4章 | 第三集-第4章 二二八事件.mp4 | 11:36 | ✅ 已上架 |
+| 第5章 | （製作中）國共內戰與政府遷臺 | — | 🛠️ 製作中 |
 
 ## 第1章 臺北公會堂受降 時間軸
 
@@ -54,6 +54,19 @@
 10:50 下一章預告
 ```
 
+## 第4章 二二八事件 時間軸
+
+```
+0:00 開場
+0:33 4-1 天馬茶房前的槍聲
+1:52 4-2 二月二十八日
+3:10 4-3 處理委員會與三十二條
+5:24 4-4 軍隊登陸與清鄉
+7:49 4-5 數字與責任
+9:38 4-6 走出禁忌
+11:20 下一章預告
+```
+
 ## 使用規範
 
 不可商用；可嵌入、下載、剪輯引用，須標注原作者「Taiwan INFO 台灣資訊」與出處。詳見根目錄 [what.md](../what.md)。
@@ -91,6 +104,26 @@
 - 數據與引文：行政院《「二二八事件」研究報告》（1992）摘要，二二八事件紀念基金會｜https://www.228.org.tw/incident-research1
 - 數據與引文：吳聰敏〈臺灣戰後的惡性物價膨脹（1945–1950）〉，《國史館學術集刊》第10期｜https://homepage.ntu.edu.tw/~ntut019/ltes/BigInflation-Historica.pdf
 - 發行額、面額與匯率：維基百科〈舊臺幣〉｜https://zh.wikipedia.org/zh-tw/舊臺幣
+
+## 素材來源與授權（第4章）
+
+影片中的歷史圖片與原音皆來自 Wikimedia Commons。標示 CC BY／CC BY-SA 的素材，轉用時請一併標示原作者與授權。旁白、配樂、音效、動畫為 Taiwan INFO 原創。
+
+除下列 CC 素材外，第4章圖片皆為 Wikimedia Commons 公有領域素材（含 1947-02-28 專賣局臺北分局前民眾照片、《臺灣新生報》1947-03-03 號外與 03-08 刊登陳儀廣播、1947 年 3 月處委會組織大綱報導、警備總部 03-03 佈告、陳儀 03-02 廣播詞、澳洲《每日新聞》〈Terror In Formosa〉原報影像，以及黃榮燦木刻〈恐怖的檢查〉局部）。本章依題材性質不使用血腥或遺體照片；死傷人數均列範圍與出處。本章未使用歷史原音（Commons 查無 1947 年事件原始錄音；《悲情城市》配音重製的陳儀廣播非原音，未採用）。
+
+- 原天馬茶房前今貌｜CC BY 3.0｜國家人權博物館｜https://commons.wikimedia.org/wiki/File:臺北原天馬茶房前.jpg
+- 原臺灣省行政長官公署暨廣場（今行政院）｜CC BY 3.0｜National Human Rights Museum（國家人權博物館）｜https://commons.wikimedia.org/wiki/File:原臺灣省行政長官公署暨廣場.jpg
+- 臺北二二八紀念館（原臺灣廣播電臺）｜CC BY 3.0｜lienyuan lee｜https://commons.wikimedia.org/wiki/File:Taipei_228_Memorial_Museum_20111217.jpg
+- 臺北市中山堂正面｜CC BY-SA 4.0｜Yu tptw｜https://commons.wikimedia.org/wiki/File:Taipei_Taiwan_Zhongshan_Hall_20230712.jpg
+- 臺灣地形底圖（標點與地名為本片加繪）｜CC BY-SA 3.0｜Uwe Dedering｜https://commons.wikimedia.org/wiki/File:Taiwan_relief_location_map.jpg
+- 中國東部地形底圖（路線與地名為本片加繪）｜CC BY-SA 4.0｜Kanguole｜https://commons.wikimedia.org/wiki/File:Eastern_China_blank_relief_map.svg
+- 李登輝官方肖像｜CC BY 4.0｜李登輝基金會｜https://commons.wikimedia.org/wiki/File:Lee_Teng-hui_official_portrait.png
+- 臺北二二八紀念碑碑文｜CC BY 2.0｜xiquinhosilva｜https://commons.wikimedia.org/wiki/File:Sphere_shaped_stele_of_the_Taipei_228_Monument_20120406.jpg
+- 二二八國家紀念館（原臺灣教育會館）｜CC BY-SA 4.0｜Yu tptw｜https://commons.wikimedia.org/wiki/File:Former_Taiwan_Education_Hall_20221220.jpg
+- 二二八和平紀念公園空拍｜CC BY-SA 3.0｜Allentchang｜https://commons.wikimedia.org/wiki/File:228_Memorial_Park_Taipei.jpg
+- 史實與數據：行政院《「二二八事件」研究報告》（1992）摘要，二二八事件紀念基金會｜https://www.228.org.tw/incident-research1
+- 死亡人數各方估計：楊亮功、何漢文調查（1947）、陳寬政人口推估（1992）、李喬推估、《二二八事件真相與轉型正義研究報告》（2021）、基金會賠償案件統計（2023）、國立臺灣歷史博物館說明｜https://www.228.org.tw/incident-research3
+- 責任歸屬：《二二八事件責任歸屬研究報告》（2006）與不同解讀並列｜https://zh.wikipedia.org/zh-tw/二二八事件
 
 ## 相關連結
 

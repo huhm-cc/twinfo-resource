@@ -16,7 +16,7 @@
 |---|---|---|---|---|
 | 第一集 | 建國與北京政府（1912–1928） | 58:49（5 章） | [第一集 --- 建國與北京政府（1912–1928）](./第一集%20---%20建國與北京政府（1912–1928）/) | [第一展廳](https://twinfo.huhm.cc/republicofchina/history/exhibitionhall/first) |
 | 第二集 | 國民政府與抗戰（1928–1945） | ✅ 已完成（5 章） | [第二集 --- 國民政府與抗戰（1928–1945）](./第二集%20---%20國民政府與抗戰（1928–1945）/) | [第二展廳](https://twinfo.huhm.cc/republicofchina/history/exhibitionhall/second) |
-| 第三集 | 戰後接收與政府遷台（1945–1949） | 🛠️ 進行中（3/5 章） | [第三集 --- 戰後接收與政府遷台（1945–1949）](./第三集%20---%20戰後接收與政府遷台（1945–1949）/) | [第三展廳](https://twinfo.huhm.cc/republicofchina/history/exhibitionhall/third) |
+| 第三集 | 戰後接收與政府遷台（1945–1949） | 🛠️ 進行中（4/5 章） | [第三集 --- 戰後接收與政府遷台（1945–1949）](./第三集%20---%20戰後接收與政府遷台（1945–1949）/) | [第三展廳](https://twinfo.huhm.cc/republicofchina/history/exhibitionhall/third) |
 
 每一集對應「中華民國歷史館」的一個展廳，展廳頁有事件介紹、年表與留言，已上架的集數另附 YouTube 播放清單。
 
